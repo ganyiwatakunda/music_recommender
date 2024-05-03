@@ -168,7 +168,6 @@ recommedations.recommend(recommendation3)
 
 """
 
-!pip install streamlit
 
 import streamlit as st
 
