@@ -1,3 +1,6 @@
+!pip install streamlit 
+import streamlit as st 
+
 def main():
     st.title("Music Recommendation System")
 
