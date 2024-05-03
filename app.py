@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load the dataset
-songs = pd.read_csv('/content based recommendation system/songdata.csv')
+songs = pd.read_csv('content based recommedation system/songdata.csv')
 
 # Create TF-IDF matrix
 tfidf = TfidfVectorizer(stop_words='english')
