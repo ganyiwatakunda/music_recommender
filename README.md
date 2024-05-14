@@ -1,7 +1,8 @@
 # Music recommender system
 
-A **recommender** (or recommendation) **system** (or engine) is a filtering system which aim is to predict a rating or preference a user would give to an item, eg. a film, a product, a song, etc.
-  
+The link to the deployed app https://musicrecommender-bqiedydlvqmtu2psgvyxh4.streamlit.app/
+
+
 There are two main types of recommender systems:
 
 - Content-based filters: [Medium post](https://medium.com/@meinzaugarat/the-abc-of-building-a-music-recommender-system-part-i-230e99da9cad)
